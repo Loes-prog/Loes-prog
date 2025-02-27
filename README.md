@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 💫 About Me:
-👋 Hi, I’m @Loes-prog<br> 👀 I’m interested in web development, SEO and machine learning <br> 🔧 I'm actively working through a Full Stack Development course to sharpen my skills! <br> 💡 In my free time, I love exploring PyTorch and diving into the world of machine learning! <br> ⚡ Fun fact: I have two freeroam bunnies!
+👋 Hi, I’m @Loes-prog<br> 👀 I’m interested in web development, SEO and machine learning <br> 🔧 I'm actively working through a Full Stack Development course to sharpen my skills! <br> 💡 In my free time, I love exploring PyTorch and diving into the world of machine learning! 
 
 
 
