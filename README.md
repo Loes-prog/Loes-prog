@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Loes-prog
 - 👀 I’m interested in web development and SEO 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Full Stack Development
+- current languages: HTML, CSS
 - ⚡ Fun fact: I have two freeroam bunnies!
 - 📫 How to reach me ...
 
